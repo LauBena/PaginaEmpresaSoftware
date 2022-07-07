@@ -168,6 +168,15 @@ header .header-title{
   }
 }
 
+@media screen and (max-width: 360px){
+  .header-title h1{
+    font-size: 40px;
+  }
+  .header-title h2{
+    font-size: 15px;
+  }
+}
+
 
 
 /*Historia*/
